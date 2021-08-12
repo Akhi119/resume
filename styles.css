@@ -4,6 +4,10 @@ body {
 }
 h1 {
     color: navy;
+  }
+
+h3{
+  color: red;
 }
 p {
   color: red;
